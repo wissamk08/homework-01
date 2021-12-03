@@ -5,7 +5,12 @@
 * I added a section tag
 * I added a footer tag
 * I added alt attributes to all the img tags
-
+---
 ## Here is my screenshot
    
- ![my screenshot](C:\Users\wissa\Desktop\fsf-projects\homework\homework-01\picture\sc.png) 
+ ![my screenshot](https://github.com/wissamk08/homework-01/blob/main/picture/sc.png?raw=true) 
+---
+ 
+ ### Here is my link
+ 
+ * https://github.com/wissamk08/homework-01
